@@ -10,6 +10,7 @@ Testing equality of mean vectors is a very commonly used criterion when comparin
 To install the package, run the following commands:
 
 ```library(devtools)```
+
 ```install_github("dayyala/prepr")```
 
 ### References
