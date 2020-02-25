@@ -1,0 +1,10 @@
+Package: prepr
+Title: Mean vector testing using pre-pivoting roots
+Version: 0.5
+Author: Deepak Nag Ayyala [aut, cre], Santu Ghosh [aut, ctb]
+Maintainer: Deepak Nag Ayyala <dayyala@augusta.edu>
+Description: Mean vector testing using pre-pivoting roots
+Depends: R (>= 3.1.0)
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
