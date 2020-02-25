@@ -11,7 +11,7 @@ To install the package, run the following commands:
 
 ```library(devtools)```
 
-```install_github("dayyala/prepr")```
+```install_github("dnayyala/prepr")```
 
 ### References
 
