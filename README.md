@@ -15,5 +15,5 @@ To install the package, run the following commands:
 
 ### References
 
-1. TBA
+1. Two-Sample High Dimensional Mean Test Based On Prepivots, Ghosh. S, Ayyala, DN, Hellebuyck, R., https://arxiv.org/abs/2003.06455
 2. Broad patterns of gene expression revealed by clustering analysis of tumor and normal colon tissues probed by oligonucleotide arrays; Alon et al.; PNAS 1999 (12), pp. 9745-9750. 
